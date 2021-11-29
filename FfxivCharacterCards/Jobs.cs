@@ -33,5 +33,7 @@ namespace FfxivCharacterCards
 		Miner = 16,
 		Botanist = 17,
 		Fisher = 18,
+		Sage = 39,
+		Reaper = 40,
 	}
 }
